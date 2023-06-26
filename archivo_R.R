@@ -9,3 +9,6 @@
 
 #Multiplicacion
 5*3
+
+#Division
+20/4
